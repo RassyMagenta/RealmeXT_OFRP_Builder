@@ -104,5 +104,6 @@ Can be downloaded at [Release](../../releases)
 - https://gitlab.com/OrangeFox
 - https://github.com/cd-Crypton
 - https://github.com/azwhikaru
+- https://github.com/kinguser981/OrangeFox-Recovery-Builder-2024
 - And to all Contributors in every repositories and scripts I used.
 
